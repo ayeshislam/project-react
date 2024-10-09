@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { Home } from "../components/home";
+import { Home } from "../components/Home.jsx";
 import { Login } from "../components/Login";
 import { SignUp } from "../components/SignUp";
 import { SKINMEDICA } from "../components1/SKINMEDICA";
